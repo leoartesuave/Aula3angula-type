@@ -1,0 +1,12 @@
+O que é typescript? - é uma línguagemcde progamação de cód aberto desenvolvida pela Microsoft! Em linhas gerais, podemos dizer que é um javascript "Bombado".
+
+Vantagem:
+O typescript possui algumas melhorias em relação ao javascript
+-> Tipagem de variavéis;
+-> Correção de erros em tempo de desenvolvimento;
+
+Desvantagem:
+-> Ao final o typescript converte o cód para javascript, isto ocorre porque os navegadores não falam typescript;
+
+Os Arquivos typescript utilizam a extensão .ty
+    Ex: exemplo01.ts
